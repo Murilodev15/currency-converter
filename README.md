@@ -21,7 +21,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./img/dev.jpeg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="./img/dev.jpeg" width="100px;" alt="Foto do Murilo Dev no GitHub"/><br>
         <sub>
           <b>Murilo Dev</b>
       </a>
